@@ -4,6 +4,7 @@ public class hi
 {
 	public static void main(String [] args)
 	{	
+		//commenting this out to see if it works
 		Scanner keyboard = new Scanner(System.in);
 		String name, gender;
 		double age, kindness, attractiveness, gpa;
