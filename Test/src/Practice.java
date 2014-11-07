@@ -4,7 +4,7 @@ public class Practice
 	public static void main(String[] args)
 	{
 		  int[] secret = new int[4];
-		  
+		  //commenting this out to see if it works
 		  secret[0] = 0;
 		  secret[1] = 0;
 		  secret[2] = 0;
